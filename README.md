@@ -1,5 +1,5 @@
 # SlayerTools
-Slayer Tools is a simple-to-use mod that gives you 3 new commands, and over 50 features to make your slayer experience much better, and faster!
+Slayer Tools is a simple-to-use Hypixel Skyblock mod that gives you 3 new commands, and over 50 features to make your slayer experience much better, and faster!
 
 Commands:
 
@@ -22,3 +22,11 @@ this is a picture of the mobs boss bar, except its on your screen, automatically
 
 ![image](https://user-images.githubusercontent.com/108372718/176333088-1698d909-821f-49d2-bb14-dbbe036bfba6.png)
 this is a picture of the live xp counter, its not really necessary since its already on the right of your screen, but its still nice to have
+
+Updates:
+
+-In the most recent version there has been a patch where you would crash when the voidgloom threw a beacon
+
+-Made the font more readable for all boss health bars
+
+-Added new DPS system that is much more accurate than the last one
