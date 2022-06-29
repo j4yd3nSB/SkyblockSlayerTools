@@ -3,11 +3,11 @@ Slayer Tools is a simple-to-use Hypixel Skyblock mod that gives you 3 new comman
 
 Commands:
 
-/slt (opens the main menu, where you can decide what features to turn on)
+**/slt (opens the main menu, where you can decide what features to turn on)**
 
-/sltgui (allows you to edit the locations of the tools shown on your screen)
+**/sltgui (allows you to edit the locations of the tools shown on your screen)**
 
-/sltdiscord (pastes a link in chat that leads to the SlayerTools discord)
+**/sltdiscord (pastes a link in chat that leads to the SlayerTools discord)**
 
 How To Set Up:
 
@@ -16,12 +16,12 @@ How To Set Up:
 3. Open the app "Minecraft Launcher" and launch Forge Client version 1.8.9 (1.8.9 is required for this mod)
 4. Log into skyblock, customize your settings and gui, and enjoy!
 
-Examples of what the mod does:
+Features:
 ![image](https://user-images.githubusercontent.com/108372718/176332572-e6878937-8742-42b4-a98d-e4898552621e.png)
-this is a picture of the mobs boss bar, except its on your screen, automatically set as the top left, but customizable
+Live Boss Health Bar
 
 ![image](https://user-images.githubusercontent.com/108372718/176333088-1698d909-821f-49d2-bb14-dbbe036bfba6.png)
-this is a picture of the live xp counter, its not really necessary since its already on the right of your screen, but its still nice to have
+Xp Counter
 
 Updates:
 
