@@ -19,3 +19,6 @@ How To Set Up:
 Examples of what the mod does:
 ![image](https://user-images.githubusercontent.com/108372718/176332572-e6878937-8742-42b4-a98d-e4898552621e.png)
 this is a picture of the mobs boss bar, except its on your screen, automatically set as the top left, but customizable
+
+![image](https://user-images.githubusercontent.com/108372718/176333088-1698d909-821f-49d2-bb14-dbbe036bfba6.png)
+this is a picture of the live xp counter, its not really necessary since its already on the right of your screen, but its still nice to have
