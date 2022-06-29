@@ -17,10 +17,13 @@ How To Set Up:
 4. Log into skyblock, customize your settings and gui, and enjoy!
 
 Features:
+
 ![image](https://user-images.githubusercontent.com/108372718/176332572-e6878937-8742-42b4-a98d-e4898552621e.png)
+
 Live Boss Health Bar
 
 ![image](https://user-images.githubusercontent.com/108372718/176333088-1698d909-821f-49d2-bb14-dbbe036bfba6.png)
+
 Xp Counter
 
 Updates:
