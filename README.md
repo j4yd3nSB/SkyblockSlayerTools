@@ -17,5 +17,5 @@ How To Set Up:
 4. Log into skyblock, customize your settings and gui, and enjoy!
 
 Examples of what the mod does:
-![image](https://user-images.githubusercontent.com/108372718/176331834-7e0bdbc6-9614-4d88-a03e-7f451e6f0685.png)
+![image](https://user-images.githubusercontent.com/108372718/176332572-e6878937-8742-42b4-a98d-e4898552621e.png)
 this is a picture of the mobs boss bar, except its on your screen, automatically set as the top left, but customizable
